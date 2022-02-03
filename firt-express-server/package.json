@@ -1,0 +1,14 @@
+{
+  "name": "firt-express-server",
+  "version": "1.0.0",
+  "description": "first express server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "@JoseBerlanga",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
